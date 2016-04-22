@@ -1,0 +1,11 @@
+name = Accelerated Mobile Pages (AMP)
+description = Google AMP integration
+core = 7.x
+configure = admin/config/content/amp
+php = 5.4
+
+; Information added by Drupal.org packaging script on 2016-03-24
+version = "7.x-1.0-beta3"
+core = "7.x"
+project = "amp"
+datestamp = "1458841740"
